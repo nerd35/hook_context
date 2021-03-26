@@ -9,6 +9,7 @@ import TableRow from '@material-ui/core/TableRow';
 import Paper from '@material-ui/core/Paper';
 import Employee from './Employee';
 import {EmployeeContext } from '../../context/EmployeeContext';
+import Modal from '../../reuseable/Modal';
 
 
 
